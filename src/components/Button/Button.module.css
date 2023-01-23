@@ -21,6 +21,6 @@
 
 .Button:hover,
 .Button:focus {
-  background-color: rgb(252, 236, 12) ;
+  background-color: #303f9f;
   color:rgb(252, 236, 12) ;
 }
